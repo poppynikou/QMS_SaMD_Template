@@ -1,0 +1,8 @@
+rdm
+pandas
+pytest
+pyyaml
+notebook
+ipytest
+pillow
+ipytest

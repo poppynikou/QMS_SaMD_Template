@@ -1,0 +1,16 @@
+- name: Socrates
+  roles:
+  - Project Lead
+  - Software Engineer
+  git_host_usernames:
+  - socrates
+- name: Plato
+  roles:
+  - Clinical Lead
+  git_host_usernames:
+  - plato
+- name: Aristotle
+  roles:
+  - Clinical Safety Officer
+  git_host_usernames:
+  - totle2358

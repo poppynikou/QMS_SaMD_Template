@@ -1,0 +1,16 @@
+- id: SRS-001
+  priority: v1.0.0
+  test: Describe the test
+  expected_outcome: describe the outcome
+  result: Pass
+  note: Any notes in conducting the test
+  performed_by: name
+  date: 14/07/2025
+- id: SRS-002
+  priority: v1.0.0
+  test: Send CTs direct from scanner
+  expected_outcome: result expected
+  result: Pass
+  note: tbc
+  performed_by: tbc
+  date: tbc
